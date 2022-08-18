@@ -1,0 +1,77 @@
+body {
+  background-color: #2E3532;
+}
+img {
+  width: 31%;
+}
+.back > a {
+  margin-left: 40%;
+  background-color: #c1b;
+  margin-top: 10px; 
+  display: flex; 
+  padding: 5px;
+  width: 14%;
+  text-decoration: none;
+  border-radius: 7px;
+  color: #fff;
+  background-color: #000;
+  border: 5px solid #00E8FC;
+  transition: all .1s;
+}
+.welcome {
+  color: #CB04A5;
+  margin-left: 19%;
+}
+.main {
+  color: gold;
+}
+.back > a:hover {
+  color: #fff;
+  border: 9px solid #001d1f;
+
+}
+.containerx {
+  background-color: #E0E0E2;
+  max-width: 80%;
+  margin: 15px auto 0 auto;
+  border: 9px solid #001d1f;
+}
+.container {
+  border: 3px solid #bebebe;
+  padding: 20px;
+  margin: 10px;
+}
+button > img {
+  padding: 10px;
+  margin-left: 1px;
+  margin: 10px;
+  width: 18px;
+  display: flex;
+}
+.light {
+  background-color: rgb(243, 239, 226);
+  color: #fff;
+  transition: all 1s;
+
+}
+.dark {
+  color: #fff;
+  background-color: rgb(7, 24, 34);
+  transition: all 1s;
+}
+.container {
+  background-color: rgb(16, 69, 86);
+  max-width: 80%;
+  margin: 0 auto 0 auto;
+  min-height: 1000px;
+  padding: 10px;
+  transition: all 1s;
+}
+.sun > a {
+  margin-left: 65%;
+}
+.Indian {
+  padding: 5px;
+  color: #c20;
+  display: flex;
+}

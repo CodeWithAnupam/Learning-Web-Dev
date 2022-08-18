@@ -1,0 +1,145 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #bebebe;
+}
+.new > h1 {
+  /* display: flex; */
+  margin: 0 auto 0 auto;
+  color: #F8F32B;
+  background-color: rgb(5, 11, 15);
+  width: 30%;
+  padding: 5px;
+  border-radius: 5px;
+}
+.items {
+  border: 3px solid #000;
+  margin-top: 5px;
+}
+.fimage {
+  flex: 2;
+  margin: 5px;
+  margin-left: 30%;
+  width: 30%;
+}
+.ftext {
+  flex: 3;
+  margin: 25px;
+  border-radius: 1px solid black;
+}
+img {
+  margin-left: 20%;
+}
+.lock > p {
+  margin: 1px solid ;
+  color: #fff; 
+  padding: 10px;
+
+}
+.lokal > p {
+  padding: 10px;
+}
+.many {
+  margin-left: 25px;
+}
+.is > img {
+  width: 60%; 
+  display: flex;
+  margin-top: 20px;
+}
+.next > a {
+  margin: 0 auto 0 auto;
+  background-color: #c1b;
+  margin-top: 10px; 
+  display: flex; 
+  padding: 5px;
+  width: 19%;
+  text-decoration: none;
+  border-radius: 7px;
+  color: #fff;
+  background-color: #000;
+  border: 5px solid #00E8FC;
+  transition: all .1s;
+
+}
+
+.next > a:hover {
+  color: #fff;
+  border: 9px solid  #001d1f;
+}
+
+
+
+.main {
+  width: 60%;
+  margin: 0 auto 0 auto;
+  color: #000;
+  margin-top: 10px;
+}
+.lod {
+  font-size: 27px;
+  margin-left: 2%;
+}
+button > img {
+  width: 19px;
+  padding: .1px;
+  margin: 7px;
+}
+.light {
+  background-color: rgb(243, 239, 226);
+  color: #fff;
+  transition: all 1s;
+}
+.dark {
+  color: #fff;
+  background-color: rgb(7, 24, 34);
+  transition: all 1s;
+}
+.container {
+  background-color: rgb(16, 69, 86);
+  max-width: 80%;
+  margin: 0 auto 0 auto;
+  min-height: 1000px;
+  padding: 10px;
+  transition: all 1s;
+  box-shadow: 2px 2px 9px 4px rgb(31, 33, 28);
+
+}
+.linkoo > a {
+  color: solid gold;
+  width: 10px;
+}
+/* <======================================================> */
+
+table {
+  margin-top: 20px;
+  width: 100%;
+  background-color: #000;
+
+}
+table td {
+  background-color: #bebebe;
+  padding: 5px 10px;
+  color: #000;
+}
+.red {
+  color: #F30C10;
+}
+.red-bg {
+  background-color: #ADB88E;
+}
+.box {
+  width: 450px;
+  background-color: #586600;
+  margin: 0 auto 0 auto;
+  padding: 1px;
+  box-shadow: 2px 2px 9px 4px rgb(31, 33, 28);
+  
+  margin-top: 20px;
+}
+.mm {
+  color: #F700B5;
+}
